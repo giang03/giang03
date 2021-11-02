@@ -181,7 +181,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/giang03/assets/img/slider/chicago.jpg') top center/ cover no-repeat ;  
+    background: url('../img/slider/chicago.jpg') top center/ cover no-repeat ;  
 }
 
 #slider .text-content{
@@ -191,6 +191,7 @@ html{
     left: 50%;
     transform: translate(-50%);
     text-align: center;
+    
 }
 
 
@@ -203,6 +204,7 @@ html{
 #slider .text-description{
     margin-top: 25px;
     font-size: 15px;
+    text-shadow: 0 0  1px #000; 
 }   
 
 #content{
